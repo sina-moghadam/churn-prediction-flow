@@ -16,13 +16,7 @@ catboost_info/
 data/test_data_*.csv
 src/best_model_info.json
 
-data/v2/*.csv
-data/v2/*.json
-data/v3/*.csv
-data/v3/*.json
-data/v3/*.joblib
-!data/v2/.gitkeep
-!data/v3/.gitkeep
+
 
 .DS_Store
 .idea/
